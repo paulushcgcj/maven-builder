@@ -1,4 +1,4 @@
-FROM alpine:3.15
+FROM alpine:latest
 LABEL maintainer="Paulo Gomes da Cruz Junior <paulushc@gmail.com>"
 
 #Create Maven Dir
